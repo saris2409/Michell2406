@@ -9,7 +9,7 @@
 
 -**Sarita Arboleda Tamayo**: 
 
--**Michael Chadid Díaz**: 
+-**Michael Chadid Díaz**: Estudio ingeniería industrial y aportare mi conocimiento para la realización de las pruebas del proyecto y pasare la sustentación a Michell Jaramillo para que organice la información.  
 
 -**Michell Natalia Jaramillo González**: Soy estudiante de Ingeniería Industrial, voy a aportar a mis compañeros mis habilidades creativas y el trabajo en equipo, para organizar bien la información, revisar y analizar el proyecto. 
 ## **NOMBRE DEL PROYECTO Y DETALLES**:
