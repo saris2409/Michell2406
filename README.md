@@ -7,7 +7,7 @@
 -**Michell Natalia Jaramillo González**: encaragada de la documentación de proyecto
 ## **VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN**:
 
--**Sarita Arboleda Tamayo**: 
+-**Sarita Arboleda Tamayo**: Soy estudiante de ingeniería industrial los conceptos adquiridos durante el curso para proponer estructuras paso a paso para la realización del código y hacerlo de forma ordenada. 
 
 -**Michael Chadid Díaz**: Estudio ingeniería industrial y aportare mi conocimiento para la realización de las pruebas del proyecto y pasare la sustentación a Michell Jaramillo para que organice la información.  
 
@@ -31,3 +31,9 @@ Este plan de proyecto describe las actividades, el cronograma y el presupuesto p
 ## **PRESUPUESTO**:
 Se deben invertir un total de 50 horas, estas horas serán reconocidas como tiempo de práctica profesional, con la siguiente distribución: 
 ![PRESUPUESTO](https://github.com/user-attachments/assets/cf7d83dc-3f07-489c-b30f-a9b9a7a78131)
+## LICENCIA:
+Este proyecto está licenciado bajo la licencia
+Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+[![Licencia CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+Puedes leer los detalles aquí:  
+[https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
