@@ -4,7 +4,7 @@
 
 -**Michael Chadid Díaz**: encargado de la realización de las pruebas del proyecto
 
--**Michell Natalia Jaramillo González**: encaragada de la documentación de proyecto
+-**Michell Natalia Jaramillo González**: encargada de la documentación de proyecto
 ## **VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN**:
 
 -**Sarita Arboleda Tamayo**: Soy estudiante de ingeniería industrial los conceptos adquiridos durante el curso para proponer estructuras paso a paso para la realización del código y hacerlo de forma ordenada. 
