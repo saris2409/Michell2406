@@ -34,4 +34,4 @@ Este plan de proyecto describe las actividades, el cronograma y el presupuesto p
 ### -**PRESUPUESTO**:
 Se deben invertir un total de 50 horas, estas horas serán reconocidas como tiempo de práctica profesional, con la siguiente distribución: 
 ![PRESUPUESTO](https://github.com/user-attachments/assets/cf7d83dc-3f07-489c-b30f-a9b9a7a78131)
-#### LICENCIA: [Ver LICENCIA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+#### LICENCIA: [Ver LICENCIA](LICENCIA.TXT)(https://creativecommons.org/licenses/by-nc-sa/4.0/)
