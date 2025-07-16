@@ -417,8 +417,8 @@ def RegistrodeSalida():
 def crear_archivo_admins():
     try:
         with open("admins.txt", "x") as f:  # "x" solo crea si no existe
-            f.write("admin1,clave123")
-            f.write("admin2,password456")
+            f.write("admin1,310523\n")
+            f.write("admin2,1152451\n")
             print("✅ Archivo admins.txt creado con usuarios por defecto.")
     except FileExistsError:
         print("📂 El archivo admins.txt ya existe.")
@@ -441,7 +441,10 @@ def login_admin():
     usuario = input("👤 Usuario de administrador: ")
     clave = input("🔒 Contraseña: ")
 
-    match = admins[(admins["usuario"] == usuario) & (admins["contraseña"] == clave)]
+    match = admins[
+        (admins["usuario"].str.strip() == usuario.strip()) &
+        (admins["contraseña"].astype(str).str.strip() == clave.strip())
+    ]
     if not match.empty:
         print("✅ Acceso concedido al módulo de administración.")
         return True
@@ -638,4 +641,4 @@ def menu_principal():
     else:
       print("❌ Opción inválida. Por favor, seleccione una opción válida.")
 
-menu_principal()
+menu_principal() 
